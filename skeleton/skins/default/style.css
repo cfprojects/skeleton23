@@ -1,0 +1,31 @@
+body { background-color:#666; font-family:Arial,Helv; }
+a { text-decoration:none; }
+label,strong { font-weight:bold; }
+th { font-weight:bold; text-align:center; }
+th,td { padding:3px; }
+#wrapper { width:770px;	margin:20px auto; border:5px solid #333; background-color:#fff; }
+#header { padding:10px;	background: #000 url(../images/header-bg.png) repeat-x top; }
+#header a:link, #header a:visited { color:#fc0; font-weight:bold; }
+#header h1 { font-size:3em; color:#3cf; padding-left:20px; font-weight:bold; }
+#wrapper ul#navbar { color:#fff; background-color:#555; padding:5px; }
+#wrapper ul#navbar li { display:inline; font-weight:bold; }
+#wrapper ul#navbar li a { color:#fc0; padding:5px 10px; }
+#wrapper ul#navbar li a:link,#wrapper #header ul#navbar li a:visited {  }
+#wrapper ul#navbar li a:hover, #wrapper ul#navbar li a.active { background-color:#fc0; color:#000; }
+#content { background: #fff url(../images/body-bg.png) repeat-x top; padding:15px; }
+#content h2 { font-size:1.5em; margin-bottom:20px; }
+#footer { background: #ccc url(../images/footer-bg.png) repeat-x bottom; padding:6px; }
+#login { padding:15px; }
+
+/* for crud pages */
+table.crud { width:100%; border:1px solid #666; }
+table.crud thead tr { background-color:#ccc; }
+table.crud td { padding:4px; }
+table.crud tbody tr.odd { background-color:#efefef; }
+
+ul.subnav { float:right; font-size:1.1em; }
+ul.subnav li { display:inline; font-weight:bold; }
+label { float:left; width:150px; text-align:right; margin-right:10px; padding:3px; }
+form p { margin-bottom:10px; }
+form p input { width:300px; padding:3px; }
+form p input#sub { width:150px; }

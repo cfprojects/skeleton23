@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/skeleton/!svn/ver/15/trunk/skins/default
+END
+top.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/skeleton/!svn/ver/10/trunk/skins/default/top.cfm
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/skeleton/!svn/ver/15/trunk/skins/default/style.css
+END
+bottom.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/skeleton/!svn/ver/5/trunk/skins/default/bottom.cfm
+END
+thumb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/skeleton/!svn/ver/5/trunk/skins/default/thumb.jpg
+END

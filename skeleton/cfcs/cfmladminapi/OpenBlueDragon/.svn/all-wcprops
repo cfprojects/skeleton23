@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/OpenBlueDragon
+END
+base.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/OpenBlueDragon/base.cfc
+END
+1_1.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/OpenBlueDragon/1_1.cfc
+END
+1_2.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/OpenBlueDragon/1_2.cfc
+END

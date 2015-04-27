@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/skeleton/!svn/ver/22/trunk/templates
+END
+App1.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/skeleton/!svn/ver/10/trunk/templates/App1.cfm
+END
+App2.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/skeleton/!svn/ver/10/trunk/templates/App2.cfm
+END
+App1.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/skeleton/!svn/ver/10/trunk/templates/App1.cfc
+END
+App2.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/skeleton/!svn/ver/10/trunk/templates/App2.cfc
+END
+login.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/skeleton/!svn/ver/11/trunk/templates/login.cfm
+END
+error.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/skeleton/!svn/ver/10/trunk/templates/error.cfm
+END

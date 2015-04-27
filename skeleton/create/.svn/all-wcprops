@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/skeleton/!svn/ver/24/trunk/create
+END
+crud.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/skeleton/!svn/ver/24/trunk/create/crud.cfm
+END
+cfcs.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/skeleton/!svn/ver/11/trunk/create/cfcs.cfm
+END
+tags.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/skeleton/!svn/ver/10/trunk/create/tags.cfm
+END
+templates.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/skeleton/!svn/ver/5/trunk/create/templates.cfm
+END
+jsScript.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/skeleton/!svn/ver/23/trunk/create/jsScript.cfm
+END
+zip.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/skeleton/!svn/ver/4/trunk/create/zip.cfm
+END
+config.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/skeleton/!svn/ver/10/trunk/create/config.cfm
+END
+images.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/skeleton/!svn/ver/19/trunk/create/images.cfm
+END
+admin.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/skeleton/!svn/ver/4/trunk/create/admin.cfm
+END
+css.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/skeleton/!svn/ver/10/trunk/create/css.cfm
+END
+app_base.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/skeleton/!svn/ver/10/trunk/create/app_base.cfm
+END

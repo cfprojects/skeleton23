@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi
+END
+cfmladminremoteapi.cfc.disabled
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/cfmladminremoteapi.cfc.disabled
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/COPYING.LESSER
+END
+PLATFORMS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/PLATFORMS
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/COPYING
+END
+Application.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/Application.cfc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/README
+END
+cfmladminapi.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/cfmladminapi.cfc
+END

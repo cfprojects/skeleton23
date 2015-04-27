@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/ColdFusion
+END
+7_0.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/skeleton/!svn/ver/26/trunk/cfcs/cfmladminapi/ColdFusion/7_0.cfc
+END
+8_0.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/skeleton/!svn/ver/26/trunk/cfcs/cfmladminapi/ColdFusion/8_0.cfc
+END
+9_0.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/skeleton/!svn/ver/26/trunk/cfcs/cfmladminapi/ColdFusion/9_0.cfc
+END
+base.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/skeleton/!svn/ver/19/trunk/cfcs/cfmladminapi/ColdFusion/base.cfc
+END

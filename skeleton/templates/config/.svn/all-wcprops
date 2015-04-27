@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/skeleton/!svn/ver/10/trunk/templates/config
+END
+Application.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/skeleton/!svn/ver/4/trunk/templates/config/Application.cfm
+END
+settings.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/skeleton/!svn/ver/10/trunk/templates/config/settings.cfc
+END
